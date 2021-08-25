@@ -8,6 +8,7 @@ Skills
 -Tableau (You can check my public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez) <br />
 -Power BI <br />
 -Excel <br />
+-DAX <br />
 -SQL <br />
 -Python data analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn) <br />
 
