@@ -6,11 +6,11 @@ You can check my public tableau profile here: https://public.tableau.com/app/pro
 
 Skills
 
--Tableu
--Power BI
--Excel
--SQL
--Python data analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn)
+-Tableu <br />
+-Power BI <br />
+-Excel <br />
+-SQL <br />
+-Python data analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn) <br />
 
 In the repositories below you can see the codes and files of the courses I have taken.
 
