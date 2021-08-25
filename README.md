@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, i'm Matías , a passionate metallurgical engineer from Chile. I am interested in new technologies and advanced data analytics. I have knowledge of languages such as python, SQL and analysis and visualization tools such as excel, power BI and tableau.
+Hi, I'm Matías , a passionate metallurgical engineer from Chile. I am interested in new technologies and advanced data analytics. I have knowledge of languages such as python, SQL and analysis and visualization tools such as excel, power BI and tableau.
 
 
 Skills
