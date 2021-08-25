@@ -6,7 +6,7 @@ You can check my public tableau profile here: https://public.tableau.com/app/pro
 
 Skills
 
--Tableu <br />
+-Tableau <br />
 -Power BI <br />
 -Excel <br />
 -SQL <br />
