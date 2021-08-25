@@ -1,16 +1,16 @@
 ### Hi there 👋
 
-<!--
-**msuarezgalvez/msuarezgalvez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, i'm Matías , a passionate metallurgical engineer from Chile. I am interested in new technologies and advanced data analytics. I have knowledge of languages such as python, SQL and analysis and visualization tools such as excel, power BI and tableau.
 
-Here are some ideas to get you started:
+You can check my public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills
+
+-Tableu
+-Power BI
+-Excel
+-SQL
+-Python data analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn)
+
+In the repositories below you can see the codes and files of the courses I have taken.
+
