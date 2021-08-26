@@ -4,7 +4,8 @@ Hi, I'm Matías , a passionate metallurgical engineer from Chile. I'm interested
 
 I'm looking forward to gain experience 🏭, learn new things 🧠, collaborate 🤝 and build amazing things for the world🌍!
 
-**Skills**
+
+## **Skills**
 
 -Tableau **(You can check my public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez)** <br />
 -Power BI <br />
