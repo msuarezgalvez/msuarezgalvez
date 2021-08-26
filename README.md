@@ -12,7 +12,7 @@ I'm looking forward to gain experience 🏭, learn new things 🧠, collaborate 
 -Excel <br />
 -DAX <br />
 -SQL <br />
--Python data analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn) <br />
+-Python Data Analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn) <br />
 
 In the repositories below you can see the codes and files of the courses I have taken.
 
