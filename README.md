@@ -6,7 +6,7 @@ I'm looking forward to gain experience 🏭, learn new things 🧠, collaborate 
 
 **Skills**
 
--Tableau (You can check my public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez) <br />
+-Tableau **(You can check my public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez)** <br />
 -Power BI <br />
 -Excel <br />
 -DAX <br />
