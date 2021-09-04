@@ -17,6 +17,9 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msuarezgalvez&show_icons=true)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 
 In the repositories below you can see the codes and files of the courses I have taken.
 
