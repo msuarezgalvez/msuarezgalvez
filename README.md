@@ -19,8 +19,6 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
-![](https://komarev.com/ghpvc/?username=msuarezgalvez)
-
 
 
 
