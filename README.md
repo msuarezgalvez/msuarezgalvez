@@ -17,7 +17,7 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msuarezgalvez&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=default)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msuarezgalvez&theme=default)](https://github.com/msuarezgalvez/github-readme-streak-stats)
 
 
 
