@@ -8,7 +8,7 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 ## **Skills**
 
 -Tableau **(You can check my public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez)** <br />
--Python Data Analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn) <br />
+-Python Data Analysis libraries (Pandas, Numpy, matplotlib, seaborn, plotly, scikit-learn) <br />
 -Power BI <br />
 -Query <br />
 -Excel <br />
