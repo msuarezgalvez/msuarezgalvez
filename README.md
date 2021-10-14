@@ -8,12 +8,12 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 ## **Skills**
 
 -Tableau **(You can check my public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez)** <br />
+-Python Data Analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn) <br />
 -Power BI <br />
 -Query <br />
 -Excel <br />
 -DAX <br />
 -SQL <br />
--Python Data Analysis libraries (Pandas, Numpy, matplotlib, seaborn, scikit-learn) <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msuarezgalvez&show_icons=true)
 
