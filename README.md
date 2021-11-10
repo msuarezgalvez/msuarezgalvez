@@ -11,9 +11,8 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 -Python Data Analysis libraries (Pandas, Numpy, matplotlib, seaborn, plotly, scikit-learn) <br />
 -SQL <br />
 -Power BI <br />
--Query <br />
 -Excel <br />
--DAX <br />
+
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msuarezgalvez&show_icons=true)
