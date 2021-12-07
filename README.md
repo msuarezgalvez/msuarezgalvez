@@ -11,7 +11,7 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 -Python Data Analysis libraries (Pandas, Numpy, matplotlib, scipy, seaborn, plotly, scikit-learn) <br />
 -SQL <br />
 -Power BI <br />
--Google Studio
+-Google Data Studio
 -Excel <br />
 
 
