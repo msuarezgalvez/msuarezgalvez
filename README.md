@@ -9,7 +9,7 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 
 -Tableau **(You can check my public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez)** <br />
 -Python Data Analysis libraries (Pandas, Numpy, matplotlib, scipy, seaborn, plotly, scikit-learn) <br />
--SQL <br />
+-SQL (PostgreSQL) <br />
 -Power BI <br />
 -Google Data Studio <br />
 -Excel <br />
