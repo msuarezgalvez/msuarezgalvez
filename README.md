@@ -10,9 +10,9 @@ I'm looking forward to gain experience 🏭, collaborate 🤝, learn new things 
 -Tableau **(public tableau profile here: https://public.tableau.com/app/profile/mat.as.su.rez)** <br />
 -Power BI **(Power BI portafolio here: https://github.com/msuarezgalvez/Power-BI-portafolio)** <br />
 -Python Data Analysis libraries (Pandas, Numpy, matplotlib, scipy, seaborn, plotly, scikit-learn) <br />
--SQL (PostgreSQL) <br />
+-SQL (MySQL) <br />
 -Google Data Studio <br />
--Excel <br />
+-MS Excel <br />
 
 
 
